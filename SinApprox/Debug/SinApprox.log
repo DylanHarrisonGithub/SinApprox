@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  SinApprox.cpp
+c:\cs\cpp\sinapprox\sinapprox\sinapprox.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\cs\cpp\sinapprox\sinapprox\sinapprox.cpp(284): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SinApprox.vcxproj -> C:\CS\Cpp\SinApprox\Debug\SinApprox.exe
+  SinApprox.vcxproj -> C:\CS\Cpp\SinApprox\Debug\SinApprox.pdb (Full PDB)

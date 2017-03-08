@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  SinApprox.cpp
+SinApprox.cpp(31): warning C4018: '<': signed/unsigned mismatch
+SinApprox.cpp(284): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SinApprox.vcxproj -> C:\CS\Cpp\SinApprox\Release\SinApprox.exe
+  SinApprox.vcxproj -> C:\CS\Cpp\SinApprox\Release\SinApprox.pdb (Full PDB)
